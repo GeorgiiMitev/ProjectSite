@@ -1,0 +1,40 @@
+﻿body
+{
+    background-color:aliceblue;
+}
+h1{
+    color:royalblue;
+    border:dashed;
+    font: bold;
+}
+h2{
+    font:bold;
+    color:azure;
+    background-color:royalblue;
+}
+h3{
+    font: bold;
+    color: azure;
+    background-color: royalblue;
+}
+ul{
+    display: inline-block;
+    text-align: center;
+}
+p{
+    font-size:large;
+}
+p2{
+    color-scheme:light;
+    color:cornflowerblue;
+}
+h4{
+    font:bold;
+    color:azure;
+    background-color: royalblue;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
